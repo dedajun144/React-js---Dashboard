@@ -85,7 +85,8 @@ Let us know your thoughts below. And good luck with development!
 
 ## Quick Start
 
-- Clone the repo: `git clone https://github.com/creativetimofficial/purity-ui-dashboard.git`.
+- First download https://nodejs.org/en/download/
+- Clone the repo: `git clone https://github.com/creativetimofficial/React-js---Dashboard.git`.
 - `cd purity-ui-dashboard`
 - `npm install`
 - `npm start`
